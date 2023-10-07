@@ -5,7 +5,7 @@
     }
 
     main .personagem .imagem {
-        height: 85%;
+        height: 60vh;
     }
 
     .conteudo {
@@ -38,7 +38,7 @@
 
 @media (max-width: 425px) {
     main .personagem .imagem {
-        height: auto;
+        height: 50vh;
     }
 
     .conteudo .logo {
